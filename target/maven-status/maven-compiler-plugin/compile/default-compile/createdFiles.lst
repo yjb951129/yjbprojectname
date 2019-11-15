@@ -1,0 +1,6 @@
+com/xm4399/log4j2/LOGGER.class
+com/xm4399/util/JdbcUtil.class
+com/xm4399/dao/MysqlDao.class
+com/xm4399/run/RunArgs.class
+com/xm4399/run/TestClass.class
+com/xm4399/AppStart.class
